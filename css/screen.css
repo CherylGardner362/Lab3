@@ -197,37 +197,48 @@ html {
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
   text-align: center;
+  background-color: #DCDCDC;
 }
 
 label {
   display: block;
   font-family: 'Yeseva One', cursive;
+  color: #F8F8FF;
+  font-size: 1.375em;
+}
+
+main{
+  background: #2F4F4F;
+  height: 29.506em;
+  width: 80%;
 }
 
 h1{
+  font-size: 3.821em;
   font-family: 'Shadows Into Light', cursive;
+  padding-top: 2.292em;
+  color: #F8F8FF;
 }
 
 p{
   font-family: 'Dosis', sans-serif;
+  padding-top: 2.292em;
+  font-size: 2.292em;
+  color: #F8F8FF;
 }
 
 input{
   font-family: 'Yeseva One', cursive;
+  font-size: 1.375em;
+  padding: 2.292em;
 }
 
-@media only screen and (min-width: 668px) {
-
-  h1{
-    font-size: 2.75em;
-  }
-
-  p{
-    font-size: 1.5em;
-  }
-
-  l
+input[type=submit]{
+  border-radius: 5%;
+  background: #C0C0C0;
+  color: #F8F8FF;
 }
+
 /* ===== LAYOUT STYLES ====== */
 
 /* ===== MODULAR STYLES ===== */
