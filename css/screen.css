@@ -241,7 +241,6 @@ input[type=email]{
   font-size: 30px;
   line-height: 40px;
   padding-bottom: 10px;
-  margin-bottom: 10px;
   width: 50%;
 }
 input[type=submit]{
@@ -268,10 +267,11 @@ input[type=checkbox]{
   margin-bottom: 36.674px;
 }
 
-@media screen and (min-width: 768px){
+@media screen and (min-width: 510px){
   h1{
     font-size: 85px;
     line-height: 100px
+    margin-bottom: 30px;
   }
   p{
     font-size: 55px;
@@ -280,9 +280,14 @@ input[type=checkbox]{
   input[type=email]{
     font-size: 45px;
     line-height: 50px 
+    margin-top: 50px;
+  }
+  #input-age-verification{
+    margin-bottom: 50px;
   }
   input[type=submit]{
     font-size: 55px;
+    margin-top: 50px;
   }
 }
 /* ===== LAYOUT STYLES ====== */
