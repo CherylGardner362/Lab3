@@ -220,6 +220,7 @@ h1{
   color: #F8F8FF;
   font-family: 'Shadows Into Light', cursive;
   margin-top: 22px;
+  margin-bottom: 22px;
 }
 
 p{
@@ -227,12 +228,14 @@ p{
   padding: 36.674px;
   font-family: 'Dosis', sans-serif;
   margin-top: 22px;
+  margin-bottom: 22px;
 }
 
 input{
   font-size: 36.674px;
   line-height: 40px;
   padding-bottom: 22px;
+  margin-bottom: 22px;
   background-color: #DCDCDC;
   color: #696969;
   font-family: 'Yeseva One', cursive;
