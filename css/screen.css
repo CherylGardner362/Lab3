@@ -226,7 +226,7 @@ h1{
 }
 
 p{
-  text-align: left;
+  float: left;
   font-size: 44px;
   padding: 36.674px;
   font-family: 'Dosis', sans-serif;
