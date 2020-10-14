@@ -204,39 +204,45 @@ label {
   display: block;
   font-family: 'Yeseva One', cursive;
   color: #F8F8FF;
-  font-size: 1.375em;
+  font-size: 22px;
 }
 
 main{
-  background: #2F4F4F;
-  height: 29.506em;
-  width: 80%;
+  background-color: #2F4F4F;
+  height: 500px;
+  align-content: center;
 }
 
 h1{
-  font-size: 3.821em;
-  font-family: 'Shadows Into Light', cursive;
-  padding-top: 2.292em;
+  padding: 22px 0;
+  font-size: 61.136px;
   color: #F8F8FF;
+  font-family: 'Shadows Into Light', cursive;
 }
 
 p{
+  font-size: 36.674px;
+  padding: 12.197px;
   font-family: 'Dosis', sans-serif;
-  padding-top: 2.292em;
-  font-size: 2.292em;
-  color: #F8F8FF;
 }
 
 input{
+  font-size: 22px;
+  line-height: 26px;
+  padding-bottom: 7.917px;
+  background-color: #DCDCDC;
+  color: #2F4F4F;
   font-family: 'Yeseva One', cursive;
-  font-size: 1.375em;
-  padding: 2.292em;
 }
 
 input[type=submit]{
+  padding: 7.917px;
+  margin-top: 12.197px;
   border-radius: 5%;
+  border: dotted;
+  font-size: 36.674px;
   background: #C0C0C0;
-  color: #F8F8FF;
+  font-color: #000000;
 }
 
 /* ===== LAYOUT STYLES ====== */
