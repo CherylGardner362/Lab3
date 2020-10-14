@@ -221,6 +221,7 @@ h1{
   font-family: 'Shadows Into Light', cursive;
   margin-top: 22px;
   margin-bottom: 22px;
+  width: 80%;
 }
 
 p{
@@ -229,6 +230,7 @@ p{
   font-family: 'Dosis', sans-serif;
   margin-top: 22px;
   margin-bottom: 22px;
+  width: 75%;
 }
 
 input{
