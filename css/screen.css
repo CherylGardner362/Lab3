@@ -267,7 +267,7 @@ input[type=checkbox]{
   margin-bottom: 36.674px;
 }
 
-@media screen and (min-width: 510px){
+@media screen and (min-width: 768px){
   h1{
     font-size: 85px;
     line-height: 100px;
