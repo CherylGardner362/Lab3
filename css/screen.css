@@ -255,7 +255,7 @@ input[type=submit]{
 
 input[type=checkbox]{
   padding: 0;
-  margin-left: 10%;
+  margin-left: 5%;
   margin-right: 2%;
 }
 
@@ -267,6 +267,11 @@ input[type=checkbox]{
   margin-bottom: 36.674px;
 }
 
+@media screen and (min-width: 768px){
+  html{
+    font-size: 300%;
+  }
+}
 /* ===== LAYOUT STYLES ====== */
 
 /* ===== MODULAR STYLES ===== */
