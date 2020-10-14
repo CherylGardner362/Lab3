@@ -198,6 +198,7 @@ html {
   text-rendering: optimizeLegibility;
   text-align: center;
   background-color: #DCDCDC;
+  box-sizing: border-box;
 }
 
 label {
@@ -222,7 +223,7 @@ h1{
   font-family: 'Shadows Into Light', cursive;
   margin-top: 22px;
   margin-bottom: 22px;
-  width: 100%;
+  width: 80%;
 }
 
 p{
@@ -232,7 +233,7 @@ p{
   font-family: 'Dosis', sans-serif;
   margin-top: 22px;
   margin-bottom: 22px;
-  width: 100%;
+  width: 80%;
 }
 
 input{
