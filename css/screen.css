@@ -215,20 +215,24 @@ main{
 }
 
 h1{
+  text-align: left;
   padding: 36.674px 0;
   font-size: 75px;
   color: #F8F8FF;
   font-family: 'Shadows Into Light', cursive;
   margin-top: 22px;
   margin-bottom: 22px;
+  width: 85%;
 }
 
 p{
+  text-align: left;
   font-size: 44px;
   padding: 36.674px;
   font-family: 'Dosis', sans-serif;
   margin-top: 22px;
   margin-bottom: 22px;
+  width: 85%;
 }
 
 input{
