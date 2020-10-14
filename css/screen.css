@@ -227,6 +227,7 @@ p{
   line-height: 40px;
   padding-top: 36.674px;
   font-family: 'Dosis', sans-serif;
+  margin-bottom: 36.674px;
 }
 
 input{
@@ -249,12 +250,13 @@ input[type=submit]{
   background: #C0C0C0;
   color: #000000;
   width: 50%;
-  margin-top: 20px;
+  margin-top: 36.674px;
 }
 
 input[type=checkbox]{
   padding: 0;
-  margin-left: 30%;
+  margin-left: 20%;
+  margin-right: 2%;
 }
 
 #input-email{
