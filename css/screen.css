@@ -251,6 +251,7 @@ input[type=submit]{
   color: #000000;
   width: 50%;
   margin-top: 36.674px;
+  margin-right: 3%;
 }
 
 input[type=checkbox]{
@@ -268,8 +269,20 @@ input[type=checkbox]{
 }
 
 @media screen and (min-width: 768px){
-  html{
-    font-size: 300%;
+  h1{
+    font-size: 85px;
+    line-height: 100px
+  }
+  p{
+    font-size: 55px;
+    line-height: 60px
+  }
+  input[type=email]{
+    font-size: 45px;
+    line-height: 50px 
+  }
+  input[type=submit]{
+    font-size: 55px;
   }
 }
 /* ===== LAYOUT STYLES ====== */
