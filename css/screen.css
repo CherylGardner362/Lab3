@@ -216,7 +216,6 @@ main{
 }
 
 h1{
-  float: left;
   padding: 36.674px 0;
   font-size: 75px;
   color: #F8F8FF;
@@ -227,7 +226,6 @@ h1{
 }
 
 p{
-  float: left;
   font-size: 44px;
   padding: 36.674px;
   font-family: 'Dosis', sans-serif;
