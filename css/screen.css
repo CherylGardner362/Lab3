@@ -249,6 +249,11 @@ input[type=submit]{
   color: #000000;
 }
 
+@media screen and (min-width: 768px) {
+  html{
+    font-size: 225%;
+  }
+}
 /* ===== LAYOUT STYLES ====== */
 
 /* ===== MODULAR STYLES ===== */
