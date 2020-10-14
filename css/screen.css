@@ -279,7 +279,7 @@ input[type=checkbox]{
   }
   input[type=email]{
     font-size: 45px;
-    line-height: 50px 
+    line-height: 50px; 
     margin-top: 50px;
   }
   #input-email{
