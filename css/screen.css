@@ -201,7 +201,7 @@ html {
 }
 
 label {
-  display: block;
+  display: inline;
   font-family: 'Yeseva One', cursive;
   color: #F8F8FF;
   font-size: 30px;
@@ -215,12 +215,11 @@ main{
 }
 
 h1{
-  padding: 36.674px 0;
-  font-size: 60px;
-  line-height: 70px;
+  padding: 30px 0;
+  font-size: 40px;
+  line-height: 45px;
   color: #F8F8FF;
   font-family: 'Shadows Into Light', cursive;
-  margin: 10px;
 }
 
 p{
@@ -228,20 +227,22 @@ p{
   line-height: 40px;
   padding: 36.674px;
   font-family: 'Dosis', sans-serif;
-  margin-top: 10px;
-  margin-bottom: 10px;
 }
 
 input{
   font-size: 30px;
   line-height: 40px;
   padding-bottom: 10px;
-  margin-top: 10px;
+  margin-bottom: 10px;
   background-color: #DCDCDC;
   color: #696969;
   box-sizing: border-box;
-  width: 85%;
+  width: 50%;
   font-family: 'Yeseva One', cursive;
+}
+
+input[type=label]{
+  margin-right: 5%;
 }
 
 input[type=submit]{
