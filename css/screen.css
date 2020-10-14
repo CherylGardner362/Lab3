@@ -204,45 +204,47 @@ label {
   display: block;
   font-family: 'Yeseva One', cursive;
   color: #F8F8FF;
-  font-size: 22px;
+  font-size: 36.674px;
+  padding: 36.674px;
 }
 
 main{
-  background-color: #2F4F4F;
-  height: 500px;
+  background-color: #696969;
+  height: 85%;
   align-content: center;
 }
 
 h1{
-  padding: 22px 0;
-  font-size: 61.136px;
+  padding: 36.674px 0;
+  font-size: 101.913px;
   color: #F8F8FF;
   font-family: 'Shadows Into Light', cursive;
+  margin-top: 22px;
 }
 
 p{
-  font-size: 36.674px;
-  padding: 12.197px;
+  font-size: 61.136px;
+  padding: 36.674px;
   font-family: 'Dosis', sans-serif;
+  margin-top: 22px;
 }
 
 input{
-  font-size: 22px;
-  line-height: 26px;
-  padding-bottom: 7.917px;
+  font-size: 36.674px;
+  line-height: 40px;
+  padding-bottom: 22px;
   background-color: #DCDCDC;
-  color: #2F4F4F;
+  color: #696969;
   font-family: 'Yeseva One', cursive;
 }
 
 input[type=submit]{
-  padding: 7.917px;
-  margin-top: 12.197px;
+  margin-top: 22px;
   border-radius: 5%;
   border: dotted;
   font-size: 36.674px;
   background: #C0C0C0;
-  font-color: #000000;
+  color: #000000;
 }
 
 /* ===== LAYOUT STYLES ====== */
