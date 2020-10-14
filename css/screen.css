@@ -227,7 +227,7 @@ p{
   line-height: 40px;
   padding-top: 36.674px;
   font-family: 'Dosis', sans-serif;
-  margin-bottom: 36.674px;
+  margin-bottom: 50px;
 }
 
 input{
@@ -255,20 +255,18 @@ input[type=submit]{
 
 input[type=checkbox]{
   padding: 0;
-  margin-left: 20%;
+  margin-left: 10%;
   margin-right: 2%;
 }
 
 #input-email{
-  margin-bottom: 20px;
+  margin-bottom: 36.674px;
 }
 
-#
-@media screen and (min-width: 768px) {
-  html{
-    font-size: 225%;
-  }
+#input-age-verification{
+  margin-bottom: 36.674px;
 }
+
 /* ===== LAYOUT STYLES ====== */
 
 /* ===== MODULAR STYLES ===== */
