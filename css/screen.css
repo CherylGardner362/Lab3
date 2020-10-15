@@ -238,8 +238,8 @@ input{
   font-family: 'Yeseva One', cursive;
 }
 input[type=email]{
+  margin-left: 3%;
   font-size: 26px;
-  line-height: 40px;
   padding-bottom: 10px;
   width: 50%;
 }
