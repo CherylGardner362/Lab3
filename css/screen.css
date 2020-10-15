@@ -260,12 +260,14 @@ input[type=checkbox]{
 
 #input-email{
   margin-bottom: 36.674px;
-  margin-left: 20%;
+  text-align: left;
+  margin-left: 2%;
 }
 
 #input-age-verification{
   margin-bottom: 36.674px;
-  margin-left: 15%;
+  text-align: left;
+  margin-left: 2%;
 }
 
 @media screen and (min-width: 768px){
