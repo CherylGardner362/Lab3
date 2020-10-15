@@ -249,9 +249,8 @@ input[type=submit]{
   font-weight: bold;
   background: #FFFFF0;
   color: #2F4F4F;
-  width: 30%;
+  width: auto;
   margin-top: 36.674px;
-  margin-left: 10%;
 }
 
 input[type=checkbox]{
